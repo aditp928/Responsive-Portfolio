@@ -334,13 +334,7 @@ padding:10px;
         max-width: 500px;
         width: 100%;
       }
-     
-      .portfolio{
-        max-width: 100%;
-        height: auto;
-        overflow: hidden;
-      }
-}
+
     
 @media screen and (min-width:768px){
      #middle_content {
